@@ -1,0 +1,8 @@
+Video URL:
+https://whjsgsh36.github.io/player/?list=https://raw.githubusercontent.com/whjsgsh36/f10136a7233d1cfe/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://whjsgsh36.github.io/player/?list=https://raw.githubusercontent.com/whjsgsh36/f10136a7233d1cfe/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Thumbnail URL:
+https://i.ibb.co/4w2X4HzL/Toonworld4all-Haddi-Mera-Buddy-Season-01-Episode-06-03-Tickle-me-Mandy-576p-x264-Voot-Kids-WEB-DL-Mu.jpg
